@@ -1,0 +1,2 @@
+# nextjs-sample
+for BC
